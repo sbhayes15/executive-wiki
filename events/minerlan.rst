@@ -67,27 +67,36 @@ General Preperation
 Day of
 ^^^^^^^^^^^^^^^^
 + **Grab Food Supplies** - Don't forget measuring cups, bowls, gloves, etc
-+ **Call University Police** - If you reserve BCH the lights will turn off
-  at 11, call university police and get that changed. Or, if you see the 
-  officer locking rooms, ask then.
++ **Call University Police** - If you reserve BCH the lights in the atrium
+  will turn off at 11, call university police and get that changed. Or, if 
+  you see the officer locking rooms, ask then.
 + **Coordinate Helpers** - Make sure everyone knows how they are going to be
-  helping you. This will ensure you aren't overwhelmed during setup.!!!!!!!!!!!!!!!!!!!!!!
+  helping you. This will ensure you aren't overwhelmed during setup. Remind
+  helpers that they are helping and confirm their time.
++ **Photograph Winners w/ Prizes** - Each tournament will end at different 
+  times. Get a picture of each winner with their chosen prize.
 
 Agenda
 ------
-+ **4:00 pmish** - Help IT set up the switches in the reserved rooms
-+ **5:00 pm** - Bring all of the :ref:`events-minerlan-equipment` to the main
-  room.
++ **3:00 pm** - The switches will be dropped off in reserved rooms
++ **4:00 pm** - Help IT set up the switches in the reserved rooms. Bring all 
+  of the :ref:`events-minerlan-equipment` to the main room/atrium.
++ **5:00 pm** - If you require a fridge, you'll want to get it to 
+  the atrium/reserved room and plug it in. Go procure your bowls, 
+  gloves, spoons, etc. Set up the ACM/check in table.
 + **5:45 pm** - Appoint someone to collect photo release forms and give them
-  tickets for the fundraiser when they enter. Collect any food orders at this
-  time so that they can be ready by 6:00.
-+ **6:00 pm** - Release everyone to go collect food.
-+ **7:00 pm** - Start the first tournament
-+ **8:00 pm** - Start the second tournament
-+ **9:00 pm** - Start the third tournament
-+ **10:00 pm** - Start the fourth tournament
-+ **12:00 am** - Start the raffle for giving away the raffle prize. Thank
-  everyone for coming.
+  tickets for the door prize when they enter. Clearly mark this table and 
+  make sure everyone signs in. Hang the Tournament schedule on each 
+  set of doors and post at the check in table. 
++ **6:00 pm** - Release everyone to go collect food. Do not let them eat 
+  before this..maybe? 
++ **7:00 pm** - Start the first tournament (May 19 - Smash)
++ **8:00 pm** - Start the second tournament (May 19 - Poker)
++ **9:00 pm** - Start the third tournament (May 19 - Mario Kart)
++ **10:00 pm** - Start the fourth tournament (If you have one)
++ **[TEN]12:00 am** - Start the raffle for giving away the raffle prize. Thank
+  everyone for coming. Do this right after the first tournament is over so 
+  people don't leave.
 
 .. _events-minerlan-equipment:
 
