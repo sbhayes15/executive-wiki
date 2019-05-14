@@ -22,7 +22,7 @@ General Preperation
 
 2 Months Before
 ^^^^^^^^^^^^^^^
-+ **Room Reservation** - Reserve the MinerLAN rooms through orgsync. See the
++ **Room Reservation** - Reserve the MinerLAN rooms through OrgSync. See the
   :ref:`events-minerlan-room` section for more details.
 
 1 Months Before
@@ -31,6 +31,8 @@ General Preperation
   smash tournments every tuesday in TJ. Look up the President's email on orgsync
   and see if they would be interested in hosting a tournment with a prize
   provided by ACM.
++ **Contact Zach Monroe** - (ztm526@mst.edu) He is the current campus Monster rep. 
+  If you don't know  who the current rep is, find someone in SUB.
 + **Contact IT** - Contact IT through the Helpdesk and say that we will need a
   48-port switch setup in the reserved rooms on the day of the event.
 + **Buy the Prizes** - You're going to want to buy a prize for each tournment
@@ -43,11 +45,33 @@ General Preperation
   an idea for a tournment and find someone with the boardgame / system and game
   to run the tournament. Popular ideas are: Smash Bros, Mario Kart, Poker,
   Trivia, Dive Kick, etc.
++ **Assign "Helpers"** - You will need three people making food (if you choose to
+  do so), one person running the "check in" table, a floater, and a photographer.
++ **Procure Cooking Appliances** - If you're cooking waffles you'll need waffle makers,
+  for pancakes you'll need griddles, etc. 
++ **Contact 2 people with VR** - See if you can get (Discord - jzaustin295#1455) to
+  bring his VR. If you don't know who this is, ask Hannah Reinbolt. 
 + **Order Food** - Order enough food for 50-60 people. Popular options are:
   Pizza, Sandwichs, Lee's, or other food from supermarket. Make sure to get some
   snacks as well to make it through the night.
++ **Contact Donut King** - (dkrolla@gmail.com), you'll be speaking with Liz. 
+  May '19 we got 6 dozen for $40 and that was great for 80 people. Be sure to 
+  mention that we've done this in the past and it's for S&T.
 + **Advertisement** - Create and hang up the flyers atleast 1 week before the
-  event.
+  event. Be sure to get the dorms and Havener! Email EE, IST, and CS to send it
+  to various departments. EE - raganer@mst.edu or roarkme@mst.edu. CS - cstask@mst.edu.
+  IST - lstory@mst.edu or slight@mst.edu. IST will take morw than a week to approve
+  so send them the flyer two+ weeks in advance. Toomey's E-Flyer, send email to 
+  krox93@mst.edu, Kimber Crull.
+
+Day of
+^^^^^^^^^^^^^^^^
++ **Grab Food Supplies** - Don't forget measuring cups, bowls, gloves, etc
++ **Call University Police** - If you reserve BCH the lights will turn off
+  at 11, call university police and get that changed. Or, if you see the 
+  officer locking rooms, ask then.
++ **Coordinate Helpers** - Make sure everyone knows how they are going to be
+  helping you. This will ensure you aren't overwhelmed during setup.!!!!!!!!!!!!!!!!!!!!!!
 
 Agenda
 ------
