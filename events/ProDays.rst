@@ -1,7 +1,7 @@
 ProDays
 ========
 **ProDays** are for incoming students (usually freshmen) to come 
-see S&T on a Saturday from roughly 11:45-3. On this day, we must
+see S&T on a Saturday from roughly 11:45 am - 3:00 pm. On this day, we must
 have two representatives for our booth. 
 
 .. _events-minerlan-room:
