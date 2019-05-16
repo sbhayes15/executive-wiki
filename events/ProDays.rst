@@ -41,6 +41,7 @@ about the department during the event! The event will end around
 our table, so refrain from leaving anything behind. 
 
 tl;dr
+
 Don't eat during the event
 Do not leave early
 Do not leave trash behind
