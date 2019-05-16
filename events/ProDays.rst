@@ -4,8 +4,6 @@ ProDays
 see S&T on a Saturday from roughly 11:45 am - 3:00 pm. On this day, we must
 have two representatives for our booth. 
 
-.. _events-minerlan-room:
-
 Month Before Events Begin (August?)
 -------------
 + Create a spreadsheet of dates and spots for two representatives.
