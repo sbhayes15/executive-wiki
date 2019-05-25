@@ -15,7 +15,7 @@ General Preperation
 
 Friday Before
 ^^^^^^^^^^^^^
-+ **Email ProDay Volunteers** - Sample Email below
++ **Email PRO Day Volunteers** - Sample Email below
 + **Check ACM Office** - Ensure all materials are ready for 
   the PRO Day on Saturday.
 + **Create Registration Page** - create a google spreadsheet that
@@ -23,7 +23,7 @@ Friday Before
 
 Sample Email
 ^^^^^^^^^^^^
-Congratulations! You've invited to volunteer at this weekend's ProDay 
+Congratulations! You're a volunteer for this weekend's PRO Day 
 event!!! YAY! Your mission is to arrive at the CS Building to get the 
 banner, stickers, tees, laptop, and tablecloth (with table clips) from 
 the ACM office at 11:40! Then, you will need to go check-in at Havener 
@@ -68,11 +68,10 @@ Agenda
 + **11:45 am** - Check in at the table, and begin finding your table.
 + **12:00 pm** - Be set up and ready for students.
 + **12:01 pm** - Stand at the table, talk to potential students using
-  your own dialog or this Sample Dialog. :ref:`Sample Dialog`
+  your own dialog or this Sample Dialog. 
 + **3:00 pm(ish)** - Clean up and pack up ACM's things. 
 + **3:30 pm(ish)** - Put everything back in the ACM office/where it came from
 
-.. _Sample Dialog:
 
 Sample Dialog
 -------------
