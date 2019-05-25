@@ -115,7 +115,7 @@ December
   software/VMs before the trip!
 + Make sure everyone knows what is going to happen 
   on the trip as well as a timeline of the trip and 
-  what to pack/bring (Welcome to CBC)
+  what to pack/bring (Welcome to CBC: https://docs.google.com/document/d/10Cf1PqwcR1Lf9l_yi592CjHAIL0prBWL09MRRNXwhJw/edit?usp=sharing)
 + Maps, addresses, Points of interest, etc… (Welcome to CBC)
 + Estimate expected personal cost beyond cost of event
 + Get rental car(s) through the department (Elaina)
