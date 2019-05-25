@@ -4,11 +4,13 @@ PRO Days
 see S&T on a Saturday from roughly 11:45 am - 3:00 pm. On this day, we must
 have two representatives for our booth. 
 
+
 Month Before Events Begin (August?)
 -----------------------------------
 + Create a spreadsheet of dates and spots for two representatives.
 + Show exec and try to get a male and a female for each day.
 + Ensure each slot is filled before a month before each PRO Day.
+
 
 General Preperation
 -------------------
@@ -20,6 +22,7 @@ Friday Before
   the PRO Day on Saturday.
 + **Create Registration Page** - create a google spreadsheet that
   potential new students can enter their name and email on. 
+
 
 Sample Email
 ^^^^^^^^^^^^
@@ -48,6 +51,7 @@ Please let me know if you have any questions or concerns.
 Best Wishes,
 <Your Name>
 
+
 Day of
 ^^^^^^
 + **Grab Supplies** - Grab a working ACM laptop and charger for 
@@ -57,6 +61,11 @@ Day of
   first level for check-in. Check in with them by telling them
   which student org you belong to. They will tell you where 
   you should set up. 
++ **Decorate the Table** - Put the tablecloth on the table, it
+  might not fit, but don't worry. Place ACM stickers on the table
+  in an organized fashion. Put a couple of ACM Tee's on the table
+  at 45 degree angles near each end. Place the laptop in the 
+  center of the table. Don't forget to put the banner up!
 + **Clean & Leave** - When students are no longer present, you
   should begin taking the display down. Pack everything up and
   return it to its place in the ACM office. 
@@ -66,9 +75,10 @@ Agenda
 ------
 + **11:40 am** - Gather materials at the ACM office.
 + **11:45 am** - Check in at the table, and begin finding your table.
-+ **12:00 pm** - Be set up and ready for students.
++ **12:00 pm** - Be set up and ready for students, as they will arrive at noon.
 + **12:01 pm** - Stand at the table, talk to potential students using
-  your own dialog or this Sample Dialog. 
+  your own dialog or the Sample Dialog (below). Hand out stickers to our 
+  potential new members, if they're interested. 
 + **3:00 pm(ish)** - Clean up and pack up ACM's things. 
 + **3:30 pm(ish)** - Put everything back in the ACM office/where it came from
 
@@ -84,19 +94,11 @@ Sample Dialog
 + Feel free to talk about any of the committees they seem interested in. Try asking the
   student what they're interested in or if they have an interest, if not, push them all!
 
-General Tips
-------------
-1. Arrive in plenty of time to set up the table. Students will begin entering Havener at
-   exactly noon.
-2. The banner, tablecloth, table clips, stickers are all in the ACM drawer in the ACM office.
-3. The tablecloth might not fit the table, don’t worry about it!
-4. Lay out the ACM stickers and hand them out to potential new members.
-5. Make sure the laptop works before you bring it to Havener!!
 
 Future Ideas
 ------------
 1. Create a video of clips from each committee and showcase it on on the laptop. 
-2. Create a physical form
+2. Create a physical interest form
 
 FAQ
 ---
