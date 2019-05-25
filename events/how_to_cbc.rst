@@ -74,8 +74,8 @@ July
   and come up with your own!)
 + Think about marketing 
   (Target Market: people interested in security, not necessarily in
-   SIG-Sec. People from Taylor’s class, CpE Security Classes, and
-   IST Security Classes).
+  SIG-Sec. People from Taylor’s class, CpE Security Classes, and
+  IST Security Classes).
 
 August
 ^^^^^^
@@ -88,7 +88,7 @@ August
 + Email Chris and Will the names of all CBC committee members
 + Ask what Chris and Will want in regards to the timeline of 
   deliverables (Topics, Headcount, etc.)
-    + Ask for specific deadlines, if they have them
+      + Ask for specific deadlines, if they have them
 + Come up with lots of ideas for topics and activities
 + Begin creating a rough structure of planned events
   (See Welcome to CBC packet)
@@ -217,7 +217,7 @@ Day Five
 + Potentially MeowWolf (roughly $27) https://meowwolf.com/ 
 + Everyone on their own for dinner. 
 + MeowWolf closes at 8 on Thursday and then 10 on Friday. 
-    + 21+ can stay until 10 PM (potentially)
+   + 21+ can stay until 10 PM (potentially)
 
 Day Six
 ^^^^^^^
@@ -228,10 +228,10 @@ Day Six
 
 Day Seven
 ^^^^^^^^^
- + Ensure everyone is ready to leave before check out
- + Make sure each car has $11 in change for tolls
- + Have each car check in every couple of hours
- + Give directions to drivers
++ Ensure everyone is ready to leave before check out
++ Make sure each car has $11 in change for tolls
++ Have each car check in every couple of hours
++ Give directions to drivers
 
 Future Ideas
 ------------
