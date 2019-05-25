@@ -17,6 +17,21 @@ Usually, ACM reserves BCH 124 to run regular tournments in and as the main LAN
 room and BCH 125 for people who want to play Super Smash Bros with the S&T
 Fighting Game Club.
 
+Marketing
+---------
++ Create and hang up the flyers atleast 1 week before the
+  event
+  
+  + Be sure to get the dorms and Havener
++ Email EE, IST, and CS to send it to various departments
+
+  + EE - raganer@mst.edu or roarkme@mst.edu
+  + CS - cstask@mst.edu
+  + IST - lstory@mst.edu or slight@mst.edu
+      + IST will take more than a week to approve, so send them 
+        the flyer two+ weeks in advance. 
+  + Toomey's E-Flyer - krox93@mst.edu, Kimber Crull.
+
 General Preperation
 -------------------
 
@@ -57,15 +72,10 @@ General Preperation
 + **Contact Donut King** - (dkrolla@gmail.com), you'll be speaking with Liz. 
   May '19 we got 6 dozen for $40 and that was great for 80 people. Be sure to 
   mention that we've done this in the past and it's for S&T.
-+ **Advertisement** - Create and hang up the flyers atleast 1 week before the
-  event. Be sure to get the dorms and Havener! Email EE, IST, and CS to send it
-  to various departments. EE - raganer@mst.edu or roarkme@mst.edu. CS - cstask@mst.edu.
-  IST - lstory@mst.edu or slight@mst.edu. IST will take morw than a week to approve
-  so send them the flyer two+ weeks in advance. Toomey's E-Flyer, send email to 
-  krox93@mst.edu, Kimber Crull.
++ **Marketing** - See section above
 
 Day of
-^^^^^^^^^^^^^^^^
+^^^^^^
 + **Grab Food Supplies** - Don't forget measuring cups, bowls, gloves, etc
 + **Call University Police** - If you reserve BCH the lights in the atrium
   will turn off at 11, call university police and get that changed. Or, if 
@@ -75,15 +85,17 @@ Day of
   helpers that they are helping and confirm their time.
 + **Photograph Winners w/ Prizes** - Each tournament will end at different 
   times. Get a picture of each winner with their chosen prize.
++ **Switches** - The switches will be dropped off in reserved rooms by IT.
+   You will need to set up the switches in the reserved rooms. 
 
 Agenda
 ------
-+ **3:00 pm** - The switches will be dropped off in reserved rooms
-+ **4:00 pm** - Help IT set up the switches in the reserved rooms. Bring all 
-  of the :ref:`events-minerlan-equipment` to the main room/atrium.
++ **4:00 pm** - Bring all of the :ref:`events-minerlan-equipment` to 
+  the main room/atrium.
 + **5:00 pm** - If you require a fridge, you'll want to get it to 
   the atrium/reserved room and plug it in. Go procure your bowls, 
   gloves, spoons, etc. Set up the ACM/check in table.
++ **5:30 pm** - Be sure the main game room is set up before people get there
 + **5:45 pm** - Appoint someone to collect photo release forms and give them
   tickets for the door prize when they enter. Clearly mark this table and 
   make sure everyone signs in. Hang the Tournament schedule on each 
@@ -134,8 +146,7 @@ General Tips
 5. **Label everything** that ACM brings to the events. This will prevent people
    accidently taking ethernet cables and switches during cleanup.
 6. Order loads of food. Trevan ordered 23 pizzas.  (12? -- not enough)
-7. Have schedules put on the doors and on the board. ( and the sign in table)
-8. Be sure the main game room is set up before people get there.
+7. Have schedules put on the doors, board, and the sign-in table.
 
 Tournaments
 -----------
