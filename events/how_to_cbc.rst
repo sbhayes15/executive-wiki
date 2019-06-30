@@ -21,33 +21,21 @@ General Notes
 
 Contacts for Hotels/Cars
 ------------------------
-+ **Hyatt Albuquerque Uptown** - shana.sparago@hyatt.com - Call Shana 
+_Specifics for this contacts list can be found  _`here <https://docs.google.com/document/d/1QV2-uRV1u9B0kck8PF2NWQYTjAUp7yHatH-W3A0YhFg/edit?usp=sharing>`_ _
++ **Hyatt Albuquerque Uptown** 
     + This is the hotel for Sandia portion of the trip
-    + Last year's rate: $122 each, for 7 rooms
     + Address: 6901 Arvada Ave NE, Albuquerque, NM 87110
     + Phone: (505) 872-9000
 
-+ **Buffalo Thunder Casino** - crawlings@lanl.gov - Contact Chris 
-  Rawlings for hotel discount for LANL hotel options. He has to 
-  work with someone in processing and this will take a while. 
-    + This hotel is an option for the LANL portion of the trip
-    + Last year's rate: $100 each, because of the government 
-      discount (Ask Chris)
++ **Buffalo Thunder Casino**
     + Address: 20 Buffalo Thunder Trail, Santa Fe, NM 87506
     + Phone: (505) 455-5555
     
-+ **Holiday Inn Express** - crawlings@lanl.gov - Contact Chris 
-  Rawlings for hotel discount for LANL hotel options. He has to 
-  work with someone in processing and this will take a while. 
-    + This hotel is an option for the LANL portion of the trip
-    + Last year's rate: Unknown Government Rate (Ask Chris)
++ **Holiday Inn Express** 
     + Address: 60 Entrada Dr, Los Alamos, NM 87544
     + Phone: (505) 661-2646
 
-+ **Cars** - manson@umsystem.edu - contact Elaina
-    + Tell her how many cars you need
-    + Elaina will contact Enterprise and we will
-      get the school rate per car.
++ **Cars** 
     + When cars are returned, you don't need to fill up the tank.
 
 
@@ -141,7 +129,7 @@ December
 + Maps, addresses, Points of interest, etc… (Welcome to CBC:
   https://bit.ly/2VQdxei)
 + Estimate expected personal cost beyond cost of event
-+ Get rental car(s) through the department (Elaina)
++ Get rental car(s) through the department
 + Finalize room grouping recommendations and car arrangements 
 
 Week of
