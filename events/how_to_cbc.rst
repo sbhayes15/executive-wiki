@@ -22,6 +22,7 @@ General Notes
 Contacts for Hotels/Cars
 ------------------------
 Specifics for this contacts list can be found  `here <https://docs.google.com/document/d/1QV2-uRV1u9B0kck8PF2NWQYTjAUp7yHatH-W3A0YhFg/edit?usp=sharing>`_
+
 + **Hyatt Albuquerque Uptown** 
     + This is the hotel for Sandia portion of the trip
     + Address: 6901 Arvada Ave NE, Albuquerque, NM 87110
